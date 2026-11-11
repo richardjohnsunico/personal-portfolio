@@ -1,16 +1,14 @@
 # Personal Portfolio Website
 
-## About
-A personal portfolio website showcasing my
-educational background, skills, projects,
-and achievements.
+## About Me
+Hello! I am Richard John S. Sunico, a BSIT-4A student interested in programming and web development.
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Features
+## Portfolio Sections
 - Home
 - About Me
 - Skills
@@ -18,5 +16,13 @@ and achievements.
 - Achievements
 - Contact Me
 
+## My Projects
+1. Simple Calculator
+2. Login Form
+3. Student Profile
+4. Super Mario Game
+
+## Contact
+Email: richardjohn.sunico@email.lcup.edu.ph
 ## Developer
-Arjay
+Richard John S. Sunico
